@@ -1,34 +1,10 @@
 {
-    "name": "php-coveralls/php-coveralls",
+    "name": "Harvey-Mlambo/travis-coveralls",
     "description": "PHP client library for Coveralls API",
     "keywords": ["coverage", "github", "test", "ci"],
-    "homepage": "https://github.com/php-coveralls/php-coveralls",
+    "homepage": "https://github.com/Harvey-Mlambo/travis-coveralls",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Kitamura Satoshi",
-            "email": "with.no.parachute@gmail.com",
-            "homepage": "https://www.facebook.com/satooshi.jp",
-            "role": "Original creator"
-        },
-        {
-            "name": "Takashi Matsuo",
-            "email": "tmatsuo@google.com"
-        },
-        {
-            "name": "Google Inc"
-        },
-        {
-            "name": "Dariusz Ruminski",
-            "email": "dariusz.ruminski@gmail.com",
-            "homepage": "https://github.com/keradus"
-        },
-        {
-            "name": "Contributors",
-            "homepage": "https://github.com/php-coveralls/php-coveralls/graphs/contributors"
-        }
-    ],
     "require": {
         "php": "^5.5 || ^7.0",
         "ext-json": "*",
