@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 php-coveralls
 =============
 
@@ -339,3 +340,6 @@ This tool assume the current directory is the project root directory by default.
 # Wiki
 
 [See wiki](https://github.com/php-coveralls/php-coveralls/wiki)
+=======
+# travis-coveralls-setup
+>>>>>>> 02e0d0490e7f8c7cfac2d21690e0b521d759b94b
